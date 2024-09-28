@@ -6,7 +6,7 @@ order: 4
 
 ## Welcome
 
-I am mosey, a Ph.D. student at department of physics, Westlake Uniersity, China.
+I am mosey, a Ph.D. student at the department of Physics, Westlake University, China.
 
 [My google scholar](https://scholar.google.com/citations?user=NEXuAWYAAAAJ&hl=en)
 
